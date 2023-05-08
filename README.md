@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TiagusFR
 - 👀 I’m interested in back end deveolpment 
-- 🌱 I’m currently learning API and other initial concepts
+- 📈 I want to make this page as closest to a timeline, so everyone can check upon my progress 
+- 🌱 I’m currently learning APIs and other initial concepts
 - 📫 How to reach me: tiagus.fr@gmail.com
 
 <!---
