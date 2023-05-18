@@ -2,7 +2,7 @@
 - 🔍 I’m interested in back end deveolpment
 - 📈 I want to make this page as closest to a timeline, so everyone can check upon my progress 
 - 💻 I’m currently learning APIs and other initial concepts
-- ⌨️ How to reach me: tiagus.fr@gmail.com
+- ⌨️ Reach me: https://www.linkedin.com/in/tiago-fran%C3%A7a-725048269/ 
 
 <!---
 TiagusFR/TiagusFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
