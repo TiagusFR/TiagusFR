@@ -1,7 +1,7 @@
 - 👍🏼 Hi, I’m Tiago from Brazil, started coding studies 2022
 - 🔍 I’m interested in back end deveolpment
 - 📈 I want to make this page as closest to a timeline, so everyone can check upon my progress 
-- 💻 I’m currently learning APIs and other initial concepts
+- 💻 I’m currently learning Paralell Programming and APIs concepts
 - ⌨️ Reach me: https://www.linkedin.com/in/tiago-fran%C3%A7a-725048269/ 
 
 <!---
