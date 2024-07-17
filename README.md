@@ -1,7 +1,7 @@
 - 👍🏼 Hi, I’m Tiago from Brazil, started coding in 2022
 - 🔍 I’m interested in back-end deveolpment
 - 📈 I want to make this page as closest to a timeline, so everyone can check upon my progress 
-- 💻 I’m currently learning SOLID Principles and Design Patterns
+- 💻 I’m currently learning SOLID Principles and other Design Patterns
 - ⌨️ Reach me: https://www.linkedin.com/in/tiago-fran%C3%A7a-725048269/ 
 
 <!---
